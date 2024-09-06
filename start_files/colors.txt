@@ -1,0 +1,10 @@
+chat_bg: #192030
+chat_card bg: #111827
+main_bg: #111720
+chat_header_bg: #121927
+
+bot_bg_message_self: #9126BF
+top_bg_message_self: #F32E5F
+
+bot_bg_message_friend: #F25757
+top_bg_message_friend: #FE925B
